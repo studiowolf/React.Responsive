@@ -1,0 +1,21 @@
+{
+  "name": "React.Responsive",
+  "description": "Media queries in react for responsive design",
+  "version": "0.0.1",
+  "homepage": "https://github.com/studiowolf/React.Responsive",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/studiowolf/React.Responsive.git"
+  },
+  "author": "Studio Wolf <hello@studiowolf.com> (http://www.studiowolf.com)",
+  "dependencies": {
+    "react": "^0.12.1",
+    "reactify": "^0.17.1"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.githubusercontent.com/studiowolf/React.Responsive/master/LICENSE"
+    }
+  ]
+}
