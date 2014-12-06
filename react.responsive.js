@@ -1,4 +1,4 @@
-var responsiveMixin = {
+var ReactResponsive = {
 
     mediaQueryListsNameMap: {},
 
@@ -49,4 +49,4 @@ var responsiveMixin = {
 
 };
 
-module.exports = responsiveMixin;
+module.exports = ReactResponsive;
